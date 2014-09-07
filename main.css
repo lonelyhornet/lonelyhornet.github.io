@@ -2,20 +2,8 @@ html {
 min-height:100%;
 }
 body {
--webkit-font-smoothing: antialiased;
-font: 1em 'Helvetica Neue', Helvetica;
-line-height:180%;
 color: rgba(255,255,255,0.8);
 margin:0 0 15px 0;
-
-background: rgb(5,23,51); /* Old browsers */
-background: -moz-linear-gradient(top,  rgba(5,23,51,1) 0%, rgba(30,93,112,1) 26%, rgba(45,142,139,1) 67%, rgba(168,224,193,1) 87%, rgba(255,255,255,1) 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(5,23,51,1)), color-stop(26%,rgba(30,93,112,1)), color-stop(67%,rgba(45,142,139,1)), color-stop(87%,rgba(168,224,193,1)), color-stop(100%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(top,  rgba(5,23,51,1) 0%,rgba(30,93,112,1) 26%,rgba(45,142,139,1) 67%,rgba(168,224,193,1) 87%,rgba(255,255,255,1) 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top,  rgba(5,23,51,1) 0%,rgba(30,93,112,1) 26%,rgba(45,142,139,1) 67%,rgba(168,224,193,1) 87%,rgba(255,255,255,1) 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(top,  rgba(5,23,51,1) 0%,rgba(30,93,112,1) 26%,rgba(45,142,139,1) 67%,rgba(168,224,193,1) 87%,rgba(255,255,255,1) 100%); /* IE10+ */
-background: linear-gradient(to bottom,  rgba(5,23,51,1) 0%,rgba(30,93,112,1) 26%,rgba(45,142,139,1) 67%,rgba(168,224,193,1) 87%,rgba(255,255,255,1) 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#051733', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
 
 </body>
 </html>

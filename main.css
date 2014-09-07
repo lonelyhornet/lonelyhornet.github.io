@@ -3,4 +3,13 @@ body {
   background: #292b3a;
 }
 
+.container {
+  width: 320px;
+  padding: 25px;
+  border: 25px solid red;
+  margin: 25px;
+  
+}
+
+
 #center { margin-left:auto;margin-right:auto;width:1000px; }

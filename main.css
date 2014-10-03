@@ -8,8 +8,6 @@ body {
   height:35px;
   color:white;
   text-align:center;
-  padding:5px;
-  border-radius:6px;
   position:absolute;
 }
 
@@ -22,7 +20,7 @@ body {
 
 #nav li {
   display:inline;
-  padding:20px;
+  padding:5px;
   
 }
 

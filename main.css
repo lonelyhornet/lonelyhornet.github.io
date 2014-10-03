@@ -3,6 +3,11 @@ body {
   background: #292b3a;
 }
 
+#nav {
+  color:white;
+  text-align:center;
+  padding:5px;
+}
 
 .container {
   width: 302px;

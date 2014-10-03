@@ -12,6 +12,13 @@ body {
   border-radius:6px;
 }
 
+#menu ul {
+  height:auto;
+  padding:8px 0px;
+  margin:0px;
+}
+
+
 .container {
   width: 302px;
   padding: 0px;

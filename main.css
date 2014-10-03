@@ -15,7 +15,7 @@ body {
 #nav ul {
   height:auto;
   padding:8px 0px;
-  margin:0px;
+  margin:0 auto;
 }
 
 #nav li {

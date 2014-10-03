@@ -13,12 +13,13 @@ body {
 }
 
 #nav ul {
-  height:auto;
-  padding:8px 0px;
+  padding: 0;
+  list-style: none;
+  width:400px;
   margin:0 auto;
 }
 
-#nav li {
+ul#nav li {
   display:inline;
   padding:20px;
   

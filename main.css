@@ -18,6 +18,11 @@ body {
   margin:0px;
 }
 
+#nav li {
+  display:inline;
+  padding:20px;
+  
+}
 
 .container {
   width: 302px;

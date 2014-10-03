@@ -2,12 +2,13 @@ body {
   margin: 0;
   background: #292b3a;
 }
-
+<style>
 #nav {
   color:white;
   text-align:center;
   padding:5px;
 }
+</style>
 
 .container {
   width: 302px;

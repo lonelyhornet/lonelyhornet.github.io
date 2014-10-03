@@ -24,6 +24,12 @@ body {
   
 }
 
+#nav a:hover {
+  color:#F90;
+  background-color:#FFF;
+  
+}
+
 .container {
   width: 302px;
   padding: 0px;

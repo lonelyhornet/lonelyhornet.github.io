@@ -2,13 +2,15 @@ body {
   margin: 0;
   background: #292b3a;
 }
-<style>
+
 #nav {
+  width:550px;
+  height:35px;
   color:white;
   text-align:center;
   padding:5px;
+  border-radius:6px;
 }
-</style>
 
 .container {
   width: 302px;

@@ -26,14 +26,12 @@ body {
   display:inline;
   padding:5px;
   font-family: 'Roboto', sans-serif;
-  
 }
 
 #nav a:hover {
   color:#F90;
   background-color:#FFF;
   font-family: 'Roboto', sans-serif;
-  
 }
 
 #indexleft {
@@ -41,14 +39,15 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-.container {
-  width: 302px;
-  padding: 0px;
-  border: 4px solid gray;
-  margin: 0px;
+#main {
+  text-align:center;
+  padding:10px;
+  border-radius:5px;
+  margin:0;
   font-family: 'Roboto', sans-serif;
-  
 }
+  
+
 
 
 #center { margin-left:auto;margin-right:auto;width:1000px; }
